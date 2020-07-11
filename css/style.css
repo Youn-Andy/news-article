@@ -1,0 +1,25 @@
+body {
+    background-color: cornsilk;
+    text-align: center;
+
+
+}
+
+.introduction {
+    color: crimson;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.introduction h1 {
+    font-size: xx-large;
+}
+.main{
+    font-size: large;
+}
+.main h2{
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+}
